@@ -14,6 +14,7 @@ object ScalaStudy010 {
     println(leo2.getName)
     leo2.name_=("jack")
     println(leo2.getName)
+
   }
 }
 
